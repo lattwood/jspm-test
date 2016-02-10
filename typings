@@ -1,0 +1,4 @@
+#!/bin/sh
+pushd www
+../node_modules/.bin/typings "$@"
+popd

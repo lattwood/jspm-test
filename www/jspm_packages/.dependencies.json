@@ -1,0 +1,32 @@
+{
+  "github:frankwallis/plugin-typescript@3.0.2": {
+    "typescript": "npm:typescript@^1.9.0-dev.20160206"
+  },
+  "npm:typescript@1.9.0-dev.20160210": {},
+  "npm:babel-runtime@5.8.35": {
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:process@0.11.2": {
+    "assert": "github:jspm/nodelibs-assert@^0.1.0"
+  },
+  "github:jspm/nodelibs-process@0.1.2": {
+    "process": "npm:process@^0.11.0"
+  },
+  "npm:assert@1.3.0": {
+    "util": "npm:util@0.10.3"
+  },
+  "github:jspm/nodelibs-assert@0.1.0": {
+    "assert": "npm:assert@^1.3.0"
+  },
+  "npm:util@0.10.3": {
+    "inherits": "npm:inherits@2.0.1",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:inherits@2.0.1": {
+    "util": "github:jspm/nodelibs-util@^0.1.0"
+  },
+  "github:jspm/nodelibs-util@0.1.0": {
+    "util": "npm:util@^0.10.3"
+  },
+  "npm:jquery@2.2.0": {}
+}
